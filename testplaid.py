@@ -27,7 +27,7 @@ account_type = "credit"
 transactions = [
     {
         "id": "1",
-        "description": "PURCHASE WM SUPERCENTER #1700",
+        "description": "Merch Name",
         "amount": 72.10,
         "direction": "OUTFLOW",
         "iso_currency_code": "USD",
